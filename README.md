@@ -84,7 +84,8 @@ printf("THE RESULTS OF CLIENTS ARE ...... \n"); write(1,buff,n);
 ```
 
 ## OUTPUT :
-![o1](https://github.com/Abrinnisha6/Linux-IPC-Pipes/assets/118889454/e1f8e702-443f-4afa-a311-76cacd67169b)
+![image](https://github.com/SriVignesh-G/Linux-IPC-Pipes/assets/147576510/c3cf538c-5996-4834-a32a-0de4326151ba)
+
 
 
 
@@ -105,7 +106,8 @@ exit(EXIT_SUCCESS);
 
 ## OUTPUT :
 
-![image](https://github.com/dharshan7200/Linux-IPC-Pipes/assets/138850116/8b754427-2304-4cf5-9298-59730f6fb15e)
+![image](https://github.com/SriVignesh-G/Linux-IPC-Pipes/assets/147576510/b9dc85b3-1440-41da-b3d7-7690eed26f30)
+
 
 
 
